@@ -1,0 +1,28 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    
+}
+.side-nav-ele{
+    background-color: #f8f9fa;
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-bottom: 1px solid #ced4da;
+}
+
+.bottomEle{
+    display:flex;
+    flex-direction:column;
+    justify-content:end;
+    align-items:center;
+}
+/* .sideNavContainer{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-between
+} */

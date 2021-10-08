@@ -1,0 +1,8 @@
+.main-body {
+display: flex;
+justify-content: stretch;
+flex-direction: row;
+flex-wrap: nowrap;
+margin: 0px;
+padding: 0px;
+}
